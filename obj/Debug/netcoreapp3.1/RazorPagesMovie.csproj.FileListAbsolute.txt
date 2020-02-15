@@ -157,3 +157,8 @@
 /Users/dfedie/PersonalProjects/RazorPagesMovie/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
 /Users/dfedie/PersonalProjects/RazorPagesMovie/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
 /Users/dfedie/PersonalProjects/RazorPagesMovie/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/dfedie/PersonalProjects/RazorPagesMovie/obj/Debug/netcoreapp3.1/Razor/Pages/Movies/Create.cshtml.g.cs
+/Users/dfedie/PersonalProjects/RazorPagesMovie/obj/Debug/netcoreapp3.1/Razor/Pages/Movies/Delete.cshtml.g.cs
+/Users/dfedie/PersonalProjects/RazorPagesMovie/obj/Debug/netcoreapp3.1/Razor/Pages/Movies/Details.cshtml.g.cs
+/Users/dfedie/PersonalProjects/RazorPagesMovie/obj/Debug/netcoreapp3.1/Razor/Pages/Movies/Edit.cshtml.g.cs
+/Users/dfedie/PersonalProjects/RazorPagesMovie/obj/Debug/netcoreapp3.1/Razor/Pages/Movies/Index.cshtml.g.cs
